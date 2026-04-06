@@ -1,5 +1,37 @@
 {
-  "name": "21 Construction Depot",
+  "name": "21 Construction Depot - 极简石材系列",
   "description": "极简主义石材美学展示 H5",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "models": {
+    "1800": {
+      "name": "MODEL 1800",
+      "chineseName": "极简主义石材美学",
+      "desc": "以极简主义为核心，赋予石材全新的生命力。完美融合了天然纹理与现代工艺。"
+    },
+    "1807": {
+      "name": "MODEL 1807",
+      "chineseName": "现代工业质感",
+      "desc": "冷峻而优雅的工业风格，展现石材最原始的张力与现代设计的碰撞。"
+    },
+    "2802": {
+      "name": "MODEL 2802",
+      "chineseName": "经典大理石纹理",
+      "desc": "传承经典的大理石纹路，细腻的触感与流动的线条，营造永恒的优雅。"
+    },
+    "7002": {
+      "name": "MODEL 7002",
+      "chineseName": "奢华灰调空间",
+      "desc": "深邃的灰调赋予空间沉稳的气质，是高端定制与艺术审美的极致体现。"
+    },
+    "7005": {
+      "name": "MODEL 7005",
+      "chineseName": "纯粹自然之美",
+      "desc": "回归自然的纯粹，捕捉石材在光影下的微妙变化，让空间充满呼吸感。"
+    },
+    "9042": {
+      "name": "MODEL 9042",
+      "chineseName": "未来主义构想",
+      "desc": "打破常规的构想，探索石材在未来空间中的无限可能，前卫且富有深度。"
+    }
+  }
 }
